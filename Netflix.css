@@ -1,0 +1,117 @@
+body{
+    background-size: cover;
+    display: flex;
+    margin: 0;
+}
+.container{
+    
+}
+h1{   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top: -40px;
+    font-size: 50px;
+    position: fixed;
+    width: 100%;
+    display: flex; 
+    color: red;
+    margin: 50px; 
+    margin-left: 8%;
+
+}
+ .button
+{
+    position: fixed;
+    display: flex;
+    margin-left: 75%;
+    top: 10px;
+    margin-top: 40px;
+    width: 70px;
+    height: 8vh;
+   
+  
+}
+
+.btn1 .language{
+    background-color:gray;
+    color:aliceblue;
+    border-radius: 7px;
+    width: 80px;
+    height: 6vh;
+}
+
+.btn2 .signup{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 7px;
+    margin-left: 10px;
+    width: 80px;
+    height: 6vh;
+    }
+    .para{
+       
+        position: fixed;
+        margin-top: -30%;
+        color: rgb(255, 255, 255);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        top: 100%;
+        font-size: 50px;
+        margin-left: 16%;
+        font-style:inherit ;
+    }
+    .para .para1{
+        font-size: 25px;
+        margin-top: -22px;
+        text-align: center;
+        margin-left: 20px;
+        margin-left: 20px;
+        
+    }
+    .para .para2{
+        font-size: 20px;
+        text-align: center;
+        margin-left: 20px;
+        margin-left: 20px;
+        
+    }
+   
+    .lbl{
+        position: fixed;
+        margin-top: -52%;
+       width: 30%;
+       margin-left: 27%;
+    
+    }
+     .lbl input{
+       width: 100%;
+       height: 8vh;
+    }
+    .lbl input[type="text"]{
+        font-size: 18px;
+        background-color: rgb(48, 49, 49);
+        
+     }
+     input::placeholder {
+        color:aliceblue
+      }
+      
+     .lpl label[palceholder]{
+        background-color: rgb(92, 170, 170);
+        
+     }
+    .button1{
+        position: fixed;
+        top: 72.5%;
+        margin-left: 58%;
+        color: red;
+    }
+    .button1 button{
+        font-size: 25px;
+        background-color: red;
+        color: rgb(255, 255, 255);
+        height: 9vh;
+        width: 240px;
+    }
+ 
+   
+    
+    
